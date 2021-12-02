@@ -1,0 +1,5 @@
+word cout 10: In this article, we learnt about the shell, terminal, 
+
+word cout 6: how to use the Python shell.
+
+word cout 12: We also saw how to run Python scripts from the command line.
